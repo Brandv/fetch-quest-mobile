@@ -15,9 +15,6 @@ d67cd72d34986c1d7d8a42cfb7513f07
 
 ### Team Members:
 Rich Richardson
-
 Vadim Brand
-
 Robert Gervais
-
 Dereck Miller
