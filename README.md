@@ -9,7 +9,8 @@ Fetch Quest! is gamified errand app that turns mundane errands into fantastical 
 - Google Maps API
 - Google Places API
 
-API Key
+API Key:
+
 d67cd72d34986c1d7d8a42cfb7513f07
 
 ### Team Members:
