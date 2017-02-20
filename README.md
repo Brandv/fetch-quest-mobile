@@ -1,25 +1,19 @@
+#FETCH QUEST! Front End Repo
+*************
+###Description:
+Fetch Quest! is gamified errand app that turns mundane errands into fantastical quests! Quests are completed by visiting the location of the errand. Upon completion, the user is rewarded with loot which can be used to customize their avatar.
 
+###Key Technologies:
+- Angular 2
+- Ionic 2
+- Google Maps API
+- Google Places API
 
-  showInfoWindow(marker) {
-    marker.ng2MapComponent.openInfoWindow(
-      'iw',    // id of InfoWindow
-      marker,  // anchor for InfoWindow
-      {        // local variables for InfoWindow
-        lat: marker.getPosition().lat(),
-        lng: marker.getPosition().lng(),
-      }
-    );
-  }
-
-KEY WHICH YOU MUST NOT LOSE!!!!!!
-
+API Key
 d67cd72d34986c1d7d8a42cfb7513f07
 
-auth_token
-y9sRWTJZMxrdGQV4qFAAAD9d
-
-
-username: VargouilleSupreme
-
-email: test@test.com
-
+### Team Members:
+Rich Richardson
+Vadim Brand
+Robert Gervais
+Dereck Miller
